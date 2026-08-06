@@ -1,4 +1,4 @@
-<img width="1867" height="822" alt="Screenshot 2026-08-06 080439" src="https://github.com/user-attachments/assets/f550c9f5-6184-4c68-bf3f-45885da1bde6" />Sales & Customer Segmentation Analysis (RFM Model)
+Sales & Customer Segmentation Analysis (RFM Model)
 A Power BI dashboard that applies RFM (Recency, Frequency, Monetary) customer segmentation to e-commerce order data (Superstore 2025). This project models transactional history into actionable customer insights to help business teams optimize target marketing and retention strategies.
 
 📸 Dashboard Overview
